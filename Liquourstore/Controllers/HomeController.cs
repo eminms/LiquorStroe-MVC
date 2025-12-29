@@ -1,0 +1,32 @@
+using Liquourstore.DAL;
+using Liquourstore.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
+namespace Liquourstore.Controllers
+{
+    public class HomeController : Controller
+    {
+        LiquorDbContext _context;
+        public HomeController(LiquorDbContext context)
+        {
+            _context = context;
+        }
+        public IActionResult Index()
+        {
+            List <Product> products = _context.Products.Include(p => p.Categories).ToList();
+
+            return View(products);
+        }
+        public IActionResult Detail(int id)
+        {
+            if( id==null) return NotFound();
+
+            Product product = _context.Products
+                .Include(p => p.Categories)
+                .FirstOrDefault(p => p.Id == id);
+            if (product == null) return NotFound();
+            return View(product);
+        }
+    }
+}

@@ -1,0 +1,21 @@
+﻿using Liquourstore.DAL;
+using Liquourstore.Models;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Liquourstore.Controllers
+{
+    public class HomeController : Controller
+    {
+        LiquorDbContext _context;
+        public HomeController(LiquorDbContext context)
+        {
+            _context = context;
+        }
+        public IActionResult Index()
+        {
+            List <Product> products = _context.Products.ToList();
+
+            return View();
+        }
+    }
+}
