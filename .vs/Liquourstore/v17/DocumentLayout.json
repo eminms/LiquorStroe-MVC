@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Liquourstore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\utilities\\imageupload\\imageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\utilities\\imageupload\\imageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|solutionrelative:liquourstore\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C744719B-994B-45E0-9DE1-F00993A65F94}|Liquourstore\\Liquourstore.csproj|c:\\users\\user\\desktop\\liquourstore\\liquourstore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +70,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "RelativeDocumentMoniker": "Liquourstore\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "RelativeToolTip": "Liquourstore\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:25:20.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA3wC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:27:52.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T21:13:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T21:13:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Liquourstore\\Views\\Home\\Index.cshtml",
@@ -71,33 +135,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Liquourstore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Models\\Product.cs",
+              "RelativeToolTip": "Liquourstore\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:27:52.302Z",
+              "WhenOpened": "2025-12-26T16:01:52.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-28T13:22:37.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -105,12 +169,11 @@
               "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:12:22.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T13:12:22.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -118,25 +181,11 @@
               "RelativeToolTip": "Liquourstore\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAM0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T13:09:25.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T13:09:25.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Liquourstore\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Models\\Product.cs",
-              "RelativeToolTip": "Liquourstore\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T16:01:52.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Liquourstore\\Controllers\\HomeController.cs",
@@ -148,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Views\\Home\\Detail.cshtml",
               "RelativeDocumentMoniker": "Liquourstore\\Views\\Home\\Detail.cshtml",
@@ -160,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Liquourstore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -172,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Liquourstore\\Liquourstore\\Program.cs",
               "RelativeDocumentMoniker": "Liquourstore\\Program.cs",

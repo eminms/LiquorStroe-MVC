@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Admin\" />
+    <Folder Include="wwwroot\Uploads\Product\" />
   </ItemGroup>
 
 </Project>
